@@ -28,7 +28,10 @@ O sistema utiliza um modelo de Machine Learning para prever a seleção de candi
    git clone https://github.com/seu-usuario/projeto-selecao-candidatos.git
    cd projeto-selecao-candidatos
 2. **Instale as dependências**:
+   
     ```pip install -r requirements.txt```
+   
 3. **Execute a aplicação**
+   
     ```streamlit run main.py```
 
