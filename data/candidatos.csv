@@ -1,0 +1,17 @@
+Nome,Idade,Nivel_Educacao,Anos_Experiencia,Habilidades,Certificacoes,Analise_Comportamental,Resultado
+Alice,25,Graduacao,3,"Python, Machine Learning",AWS,Proativo,Aprovado
+Bob,30,Mestrado,5,"Java, Spring",Oracle,Lider,Aprovado Parcialmente
+Charlie,35,Graduacao,10,"C++, Embedded Systems",PMP,Detalhista,Reprovado
+David,28,Mestrado,7,"Python, Data Science",Azure,Comunicativo,Aprovado Parcialmente
+Eva,24,Graduacao,2,"JavaScript, React",Google Cloud,Proativo,Aprovado
+Frank,40,PhD,15,"AI, Deep Learning",AWS,Lider,Aprovado
+Grace,32,Mestrado,8,"Data Analysis, SQL",Azure,Detalhista,Aprovado
+Hank,27,Graduacao,4,"DevOps, Docker",AWS,Comunicativo,Aprovado Parcialmente
+Ivy,29,Graduacao,6,"Cybersecurity, Network Security",CISSP,Proativo,Aprovado
+Jack,33,Mestrado,9,"Software Architecture, Java",Oracle,Lider,Aprovado Parcialmente
+Karen,26,Graduacao,3,"Mobile Development, Swift",AWS,Detalhista,Reprovado
+Leo,31,PhD,12,"Cloud Computing, AWS",AWS,Comunicativo,Aprovado
+Mia,38,Mestrado,14,"Project Management, Agile",PMP,Lider,Aprovado
+Nina,23,Graduacao,1,"HTML, CSS",Google Cloud,Proativo,Reprovado
+Oscar,35,Graduacao,11,"Backend Development, Node.js",Azure,Detalhista,Aprovado
+Paul,29,Mestrado,7,"Frontend Development, Vue.js",Google Cloud,Comunicativo,Aprovado
